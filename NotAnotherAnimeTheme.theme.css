@@ -8,7 +8,7 @@
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
 
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+@import url(https://github.com/khoa301020/NotAnotherAnimeTheme/raw/master/css/v3/naat.v3.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://i.imgur.com/1SbF9lH.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://media.discordapp.net/stickers/1039992459209490513.png);
 
   /*
     Change your friends icon image position
@@ -112,6 +112,7 @@
   */
   --code-markup-background-color: rgba(0, 0, 0, 0.6);
   --code-markup-border: 1px solid transparent;
+  --code-markup-opacity: 0.8;
 
   /*
     Message Box Transparency

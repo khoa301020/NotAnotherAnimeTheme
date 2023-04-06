@@ -12,18 +12,11 @@
   background-size: cover !important;
 }
 
-.tutorialContainer-2sGCg9
-  .wrapper-2PSQCG
-  .childWrapper-1j_1ub
-  .homeIcon-FuNwkv {
+.tutorialContainer-2sGCg9 .wrapper-2PSQCG .childWrapper-1j_1ub .homeIcon-FuNwkv {
   visibility: hidden;
 }
 
-.tutorialContainer-2sGCg9
-  .listItem-GuPuDH
-  .listItemWrapper-KhRmzM
-  .wrapper-3kah-n
-  .childWrapper-1j_1ub {
+.tutorialContainer-2sGCg9 .listItem-GuPuDH .listItemWrapper-KhRmzM .wrapper-3kah-n .childWrapper-1j_1ub {
   background-color: transparent;
 }
 
@@ -31,11 +24,7 @@
   visibility: hidden;
 }
 
-.tutorialContainer-2sGCg9
-  .listItem-GuPuDH
-  .listItemWrapper-KhRmzM
-  .wrapper-3kah-n
-  svg {
+.tutorialContainer-2sGCg9 .listItem-GuPuDH .listItemWrapper-KhRmzM .wrapper-3kah-n svg {
   opacity: 0;
 }
 
@@ -303,14 +292,11 @@
   transform: none !important;
 }
 
-.wrapper-1_HaEi
-  .scroller-3X7KbA
-  > div.listItem-GuPuDH:nth-child(1)
-  .item-2LIpTv {
+.wrapper-1_HaEi .scroller-3X7KbA > div.listItem-GuPuDH:nth-child(1) .item-2LIpTv {
   opacity: 0 !important;
 }
 
-.item-2LIpTv:not([style*="height: 8px"]) {
+.item-2LIpTv:not([style*='height: 8px']) {
   border-color: transparent;
   background-color: initial;
 }
@@ -426,9 +412,7 @@
 }
 
 /* Channel category color */
-.wrapper-1S43wv:not(.muted-19J0ih)
-  .name-3BUDLf.container-q97qHp
-  .overflow-1wOqNV {
+.wrapper-1S43wv:not(.muted-19J0ih) .name-3BUDLf.container-q97qHp .overflow-1wOqNV {
   color: var(--main-theme-color);
 }
 
@@ -586,7 +570,7 @@
   background-color: transparent;
 }
 
-.item-2idW98[aria-checked="true"] {
+.item-2idW98[aria-checked='true'] {
   background-color: rgba(200, 200, 200, 0.1);
 }
 
@@ -615,6 +599,7 @@
 .markup-eYLPri code {
   background: var(--code-markup-background-color);
   border: var(--code-markup-border);
+  opacity: var(--code-markup-opacity);
 }
 
 /* quote */
@@ -750,12 +735,7 @@
   left: 1px;
 }
 
-.wrapper-1_HaEi
-  .scroller-3X7KbA
-  div
-  .listItem-GuPuDH
-  .pill-22lZHo
-  .item-2LIpTv {
+.wrapper-1_HaEi .scroller-3X7KbA div .listItem-GuPuDH .pill-22lZHo .item-2LIpTv {
   opacity: 0 !important;
 }
 
@@ -922,18 +902,11 @@ html {
   background-size: var(--home-icon-image-zoom) !important;
 }
 
-.tutorialContainer-1pL9QS
-  .wrapper-2PSQCG
-  .childWrapper-1j_1ub
-  .homeIcon-FuNwkv {
+.tutorialContainer-1pL9QS .wrapper-2PSQCG .childWrapper-1j_1ub .homeIcon-FuNwkv {
   visibility: hidden;
 }
 
-.tutorialContainer-1pL9QS
-  .listItem-GuPuDH
-  .listItemWrapper-KhRmzM
-  .wrapper-3kah-n
-  .childWrapper-1j_1ub {
+.tutorialContainer-1pL9QS .listItem-GuPuDH .listItemWrapper-KhRmzM .wrapper-3kah-n .childWrapper-1j_1ub {
   background-color: transparent;
 }
 
@@ -941,11 +914,7 @@ html {
   visibility: hidden;
 }
 
-.tutorialContainer-1pL9QS
-  .listItem-3SmSlK
-  .listItemWrapper-3d87LP
-  .wrapper-3kah-n
-  svg {
+.tutorialContainer-1pL9QS .listItem-3SmSlK .listItemWrapper-3d87LP .wrapper-3kah-n svg {
   opacity: 0;
 }
 
