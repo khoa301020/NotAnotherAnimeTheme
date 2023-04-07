@@ -47,7 +47,7 @@
 
 /* FRIENDS SIDEBAR */
 .sidebar-1tnWFu {
-  background: transparent;
+  background: var(--area-background);
 }
 
 .privateChannels-oVe7HL {
@@ -72,7 +72,7 @@
 }
 
 .container-ZMc96U.themed-Hp1KC_ {
-  background: transparent;
+  background: var(--area-background);
 }
 
 .nowPlayingColumn-1eCBCN {
@@ -946,7 +946,7 @@ html {
 }
 
 .container-2o3qEW {
-  background: transparent;
+  background: var(--area-background);
 }
 
 .guildSeparator-a4uisj {

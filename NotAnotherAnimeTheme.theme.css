@@ -34,6 +34,11 @@
   --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /*
+    Main Area Transparency
+  */
+  --area-background: rgba(0, 0, 0, 0.3);
+
+  /*
     Home Icon Image
   */
   --home-icon-image: url(https://media.discordapp.net/stickers/1039992459209490513.png);
