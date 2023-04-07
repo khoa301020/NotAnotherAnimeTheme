@@ -127,6 +127,10 @@
   background-color: transparent;
 }
 
+.channelTextArea-1FufC0 > .attachedBars-2BCP3l {
+  background-color: rgba(42, 44, 49, 0.7);
+}
+
 .scrollableContainer-15eg7h {
   background: none !important;
 }
@@ -1103,8 +1107,4 @@ html {
 .theme-dark .panel-2ZFCRb {
   background: none !important;
   background-color: transparent;
-}
-
-.attachedBars-2BCP3l {
-  background: rgba(42, 44, 49, 0.7);
 }
