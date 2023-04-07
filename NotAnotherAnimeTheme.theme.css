@@ -36,7 +36,8 @@
   /*
     Main Area Transparency
   */
-  --area-background: rgba(0, 0, 0, 0.3);
+  --area-background: transparent;
+  --area-hover-background: rgba(0, 0, 0, 0.3);
 
   /*
     Home Icon Image

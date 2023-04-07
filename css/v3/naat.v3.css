@@ -50,6 +50,10 @@
   background: var(--area-background);
 }
 
+.sidebar-1tnWFu:hover {
+  background: var(--area-hover-background);
+}
+
 .privateChannels-oVe7HL {
   background-color: transparent;
 }
@@ -73,6 +77,10 @@
 
 .container-ZMc96U.themed-Hp1KC_ {
   background: var(--area-background);
+}
+
+.container-ZMc96U.themed-Hp1KC_:hover {
+  background: var(--area-hover-background);
 }
 
 .nowPlayingColumn-1eCBCN {
@@ -140,7 +148,7 @@
 }
 
 .theme-dark .form-3gdLxP:before {
-  background: transparent;
+  background: var(--area-background);
 }
 
 /* SETTINGS */
@@ -947,6 +955,10 @@ html {
 
 .container-2o3qEW {
   background: var(--area-background);
+}
+
+.container-2o3qEW:hover {
+  background: var(--area-hover-background);
 }
 
 .guildSeparator-a4uisj {
