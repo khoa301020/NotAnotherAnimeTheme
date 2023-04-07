@@ -127,8 +127,8 @@
   background-color: transparent;
 }
 
-.channelTextArea-1FufC0 > .attachedBars-2BCP3l {
-  background-color: rgba(42, 44, 49, 0.7);
+.attachedBars-2BCP3l {
+  opacity: 0.7;
 }
 
 .scrollableContainer-15eg7h {
