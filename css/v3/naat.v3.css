@@ -686,6 +686,10 @@
   background-color: var(--emoji-menu-background-color);
 }
 
+.contentWrapper-2f9yME {
+  background-color: var(--emoji-menu-background-color);
+}
+
 .wrapper-22rqw6 {
   background-color: var(--emoji-menu-sider-background-color);
 }
@@ -1114,6 +1118,10 @@ html {
 
 .scroller-WSmht3 {
   background: none !important;
+}
+
+.content-3spvdd {
+  margin-bottom: 13px;
 }
 
 .theme-dark .panel-2ZFCRb {
